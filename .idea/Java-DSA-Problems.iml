@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01-Arrays/Best-Time-to-Buy-and-Sell-Stock" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01-Arrays/Move-Zeroes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01-Arrays/Two Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-Matrix" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
