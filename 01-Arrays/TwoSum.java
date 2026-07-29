@@ -1,7 +1,10 @@
 import java.util.HashMap;
 
 public class TwoSum {
+
     /*
+     * LeetCode: https://leetcode.com/problems/two-sum/
+     *
      * Problem:
      * Given nums and target, return indices of two numbers
      * whose sum equals target.
