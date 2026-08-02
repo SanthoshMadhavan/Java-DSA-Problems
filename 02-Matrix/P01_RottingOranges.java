@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class RottingOranges {
+public class P01_RottingOranges {
 
     /*
      * Problem:

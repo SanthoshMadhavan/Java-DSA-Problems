@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-public class SpiralMatrix {
+public class P02_SpiralMatrix {
     /*
      * LeetCode: https://leetcode.com/problems/spiral-matrix/
      *
