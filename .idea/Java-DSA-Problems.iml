@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01-Arrays/Two Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02-Matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01-Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-Linkedlist" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
