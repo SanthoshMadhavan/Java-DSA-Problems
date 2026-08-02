@@ -1,4 +1,4 @@
-public class SortColors {
+public class P06_SortZerosOnesTwos {
     /*
      * LeetCode: https://leetcode.com/problems/sort-colors/
      *

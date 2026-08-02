@@ -1,4 +1,4 @@
-public class MoveZeroes {
+public class P03_MoveZeroes {
 
     /*
      * LeetCode: https://leetcode.com/problems/move-zeroes/

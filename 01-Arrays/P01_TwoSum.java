@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class TwoSum {
+public class P01_TwoSum {
 
     /*
      * LeetCode: https://leetcode.com/problems/two-sum/

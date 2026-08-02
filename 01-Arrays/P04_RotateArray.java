@@ -1,4 +1,4 @@
-public class RotateArray {
+public class P04_RotateArray {
 
     /*
      * LeetCode: https://leetcode.com/problems/rotate-array/

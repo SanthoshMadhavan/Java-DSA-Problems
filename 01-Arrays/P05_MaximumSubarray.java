@@ -1,4 +1,4 @@
-public class MaximumSubarray {
+public class P05_MaximumSubarray {
 
     /*
      * LeetCode: https://leetcode.com/problems/maximum-subarray/
