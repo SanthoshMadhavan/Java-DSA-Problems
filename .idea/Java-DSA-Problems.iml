@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02-Matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/01-Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03-Linkedlist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-BinarySearch" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
